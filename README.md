@@ -1,4 +1,4 @@
-- Hi, I'm nkp28
+- Hi, I'm Niam
 - I studied physics at Cornell and now I'm studying Space Systems at ETH.
 
 <!---
