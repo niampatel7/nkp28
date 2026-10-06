@@ -1,5 +1,5 @@
 - Hi, I'm nkp28
-- I am currently a student at Cornell University
+- I studied physics at Cornell and now I'm studying Space Systems at ETH.
 
 <!---
 nkp28/nkp28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
